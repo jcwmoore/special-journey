@@ -1,5 +1,5 @@
 namespace Practice.Implementation;
-public class Leetcode_202311119
+public class Leetcode_20231119
 {
     // Given an integer array nums, your goal is to make all elements in nums equal. To complete one operation, follow these steps:
 

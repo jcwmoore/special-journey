@@ -5,7 +5,7 @@ public class Leetcode_20231119Tests
     public void Test1()
     {
         int[] input = new[] { 5,1,3 };
-        var result = new Leetcode_202311119().ReductionOperations(input);
+        var result = new Leetcode_20231119().ReductionOperations(input);
         Assert.Equal(3, result);
     }
     
@@ -13,7 +13,7 @@ public class Leetcode_20231119Tests
     public void Test2()
     {
         int[] input = new[] { 1,1,1 };
-        var result = new Leetcode_202311119().ReductionOperations(input);
+        var result = new Leetcode_20231119().ReductionOperations(input);
         Assert.Equal(0, result);
     }
 
@@ -21,7 +21,7 @@ public class Leetcode_20231119Tests
     public void Test3()
     {
         int[] input = new[] { 1,1,2,2,3 };
-        var result = new Leetcode_202311119().ReductionOperations(input);
+        var result = new Leetcode_20231119().ReductionOperations(input);
         Assert.Equal(4, result);
     }
 }
