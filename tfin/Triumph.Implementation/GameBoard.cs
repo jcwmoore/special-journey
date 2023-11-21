@@ -140,7 +140,7 @@ public static class Game
             var solution = Solve(option);
             if(solution != null && solution.State.All(s => s != 0))
             {
-                return board;
+                return solution;
             }
         }
         return null;
