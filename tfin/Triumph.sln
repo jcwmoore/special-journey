@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.Implementation", "Triumph.Implementation\Triumph.Implementation.csproj", "{29EFE97F-8F95-4BA6-B363-9542C696FEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triumph.Tests", "Triumph.Tests\Triumph.Tests.csproj", "{1519446B-EE74-41FC-813E-7AAE46A02ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EFE97F-8F95-4BA6-B363-9542C696FEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EFE97F-8F95-4BA6-B363-9542C696FEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EFE97F-8F95-4BA6-B363-9542C696FEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EFE97F-8F95-4BA6-B363-9542C696FEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1519446B-EE74-41FC-813E-7AAE46A02ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1519446B-EE74-41FC-813E-7AAE46A02ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1519446B-EE74-41FC-813E-7AAE46A02ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1519446B-EE74-41FC-813E-7AAE46A02ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
